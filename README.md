@@ -90,7 +90,7 @@ Configuring split DNS, handling Fake IP mappings, and avoiding IPv6 leaks in sin
 
 #### Secure Your Connection Instantly
 Download Kite VPN for leak-free, high-speed browsing:
-- **Official Website**: [KiteVPN](http://kitevip.vip)
+- **Official Website**: [KiteVPN](https://kitevip.vip?f=github)
 - Start your free trial today.
 
 ---
@@ -181,7 +181,7 @@ Fake IP 引擎不向系统返回真实的公网 IP，而是在收到解析请求
 
 #### 立即守护网络隐私
 下载 Kite VPN，体验无污染的顺畅网络：
-- **官方网站**：[KiteVPN](http://kitevip.vip)
+- **官方网站**：[KiteVPN](https://kitevip.vip?f=github)
 - 点击开启免费试用。
 
 ---
@@ -272,5 +272,5 @@ DNS-запросы классифицируются по правилам:
 
 #### Попробуйте безопасный интернет прямо сейчас
 Скачайте Kite VPN и забудьте о проблемах с DNS:
-- **Наш сайт**: [KiteVPN](http://kitevip.vip)
+- **Наш сайт**: [KiteVPN](https://kitevip.vip?f=github)
 - Зарегистрируйтесь для получения бесплатного теста.
